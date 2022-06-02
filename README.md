@@ -1,8 +1,8 @@
-I’m interested in mainly Javascript and Python
+🐍 - I’m interested in mainly Python, Javascript, and Java
 
-I’m starting to learn Object Oriented Programming and I'm very excited
+👨‍🎓 - I’m starting to learn Object Oriented Programming and Data Structures
 
-I’m looking forward to build many great projects this year!
+🛠 - I’m looking forward to building many projects this year!
 
 
 <!---
