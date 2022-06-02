@@ -1,4 +1,4 @@
-🐍 - I’m interested in mainly Python, Javascript, and Java
+🐍 - I’m interested in mainly Python, Java, and Javascript
 
 👨‍🎓 - I’m starting to learn Object Oriented Programming and Data Structures
 
