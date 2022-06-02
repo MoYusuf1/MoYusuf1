@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MoYusuf1
-- 👀 I’m interested in mainly Javascript and Python
-- 🌱 I’m starting to learn Object Oriented Programming and I'm very excited
-- ❗️ I’m looking forward to build many great projects this year!
+I’m interested in mainly Javascript and Python
+
+I’m starting to learn Object Oriented Programming and I'm very excited
+
+I’m looking forward to build many great projects this year!
 
 
 <!---
