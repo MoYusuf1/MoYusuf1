@@ -2,7 +2,7 @@
 
 👨‍🎓 - My goal is to be a senior level programmer in the professional world. (Which kind is still up to debate)
 
-🛠 - I’m looking forward to map my progress by uploading the many projects to come!
+🛠 - I’m looking forward to map my progress by uploading my personal projects here!
 
 
 <!---
