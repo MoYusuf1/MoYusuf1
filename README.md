@@ -1,8 +1,8 @@
-🐍 - I’m interested in mainly Python, Java, and Javascript
+🐍 - I’m focusing mainly on Python this summer
 
-👨‍🎓 - I’m starting to learn Object Oriented Programming and Data Structures
+👨‍🎓 - My goal is to be a senior level programmer in the professional world. (Which kind is still up to debate)
 
-🛠 - I’m looking forward to building many projects this year!
+🛠 - I’m looking forward map my progress by uploading the many projects to come!
 
 
 <!---
