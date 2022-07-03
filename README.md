@@ -1,6 +1,6 @@
 🐍 - I’m focusing mainly on Python this summer
 
-👨‍🎓 - My goal is to be a senior level programmer in the professional world. (Which kind is still up to debate)
+👨‍🎓 - My goal is to be a senior level programmer in the professional world.
 
 🛠 - I’m looking forward to map my progress by uploading my personal projects here!
 
