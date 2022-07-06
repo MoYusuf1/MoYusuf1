@@ -1,4 +1,4 @@
-🐍 - I’m focusing mainly on Python and Java this summer
+🐍 ☕️- I’m focusing mainly on Python and Java this summer
 
 👨‍🎓 - My goal is to be a senior level programmer in the professional world.
 
