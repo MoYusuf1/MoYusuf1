@@ -1,6 +1,6 @@
-🐍 ☕️- I’m focusing mainly on Python and Java this summer
+☕️- I’m focusing on building my Internship Project and the version control is Azure hence the drop of activity.
 
-👨‍🎓 - My goal is to be a senior level programmer in the professional world.
+👨‍🎓 - My goal is to be a high level develepor in the professional world.
 
 🛠 - I’m looking forward to map my progress by uploading my personal projects here!
 
