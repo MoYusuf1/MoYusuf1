@@ -1,4 +1,4 @@
-☕️- I’m focusing on building my Internship Project using the T3 Stack.
+☕️- I’m currently working on my Internship Project using the T3 Stack.
 
 👨‍🎓 - My goal is to be a high level develepor in the professional world.
 
