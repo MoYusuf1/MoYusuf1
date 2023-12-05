@@ -1,5 +1,3 @@
-☕️- I’m currently working on my Internship Project using the T3 Stack.
-
 👨‍🎓 - My goal is to be a high level developer in the professional world.
 
 🛠 - I’m looking forward to map my progress by uploading my personal projects here!
