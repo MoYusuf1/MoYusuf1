@@ -1,26 +1,25 @@
-<img src="banner.svg" alt="Mohamed Yusuf, Cloud Engineer" width="100%"/>
+<img src="banner.svg" alt="Terraform module describing a cloud engineer focused on AWS, Terraform, networking, and CI/CD" width="100%"/>
 
-I build private, auditable AWS infrastructure in Terraform, and write up every design decision along the way.
+I design AWS infrastructure, build it with Terraform, and write up every decision, including what broke and how I traced it.
 
-**6 AWS architectures. Every one documented, including what broke.**
+### Selected work
 
-| Build | What broke |
-|---|---|
-| [PrivateLink in Terraform](https://www.linkedin.com/pulse/how-i-rebuilt-private-multi-vpc-architecture-so-team-could-yusuf-c21mf/) | CI failed before any test ran because the mock values were not valid ARNs |
-| [Private multi-VPC with PrivateLink](https://www.linkedin.com/pulse/how-i-built-private-multi-vpc-architecture-aws-mohamed-yusuf-xjnoc/) | The service could not tell which team was calling until Proxy Protocol v2 |
-| [Multi-region with Global Accelerator](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/) | The load balancer looked down because I was calling HTTPS on an HTTP-only listener |
-| [Event-driven order processing](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/) | Orders stuck in pending because the stream processor mixed CommonJS into an ES module |
-| [Zero-downtime deployments](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/) | Every target unhealthy because invalid characters broke the startup script |
-| [Private S3 and CloudFront hosting](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/) | A 403 that was really a blank Default Root Object |
+**[PrivateLink, rebuilt in Terraform](https://github.com/MoYusuf1/aws-privatelink-multi-vpc-terraform)**<br/>
+Three isolated VPCs share one internal service with no peering and no public IPs. Access approvals live in code, and every change runs through tests, tflint, and Checkov. [Write-up](https://www.linkedin.com/pulse/how-i-rebuilt-private-multi-vpc-architecture-so-team-could-yusuf-c21mf/)
 
-**Featured** &nbsp; [aws-privatelink-multi-vpc-terraform](https://github.com/MoYusuf1/aws-privatelink-multi-vpc-terraform)<br/>
-<sub>Three isolated VPCs sharing one service over PrivateLink, with approvals in code and tests in CI.</sub>
+**[Multi-region failover with Global Accelerator](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/)**<br/>
+Two independent Regions behind one entry point, verified by taking the primary offline.
 
-```mermaid
-flowchart LR
-  P[Payments VPC] -->|PrivateLink| S[Shared Services]
-  A[Analytics VPC] -->|PrivateLink| S
-  P x--x|no route| A
-```
+**[Event-driven order processing](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/)**<br/>
+SQS, dead-letter queues, and EventBridge Pipes so a failed worker never loses an order.
 
-**Connect** &nbsp; [LinkedIn](https://www.linkedin.com/in/mohamed-yusuf1/)
+**[Zero-downtime deployments](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/)**<br/>
+Blue-green cutover, rolling updates, and rollback as a routing change behind a load balancer.
+
+### Now
+
+Moving [LeetGrammar](https://github.com/MoYusuf1/LeetGrammar) from Vercel to AWS with Terraform.
+
+<br/>
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-yusuf1/) &nbsp;·&nbsp; [All write-ups](https://www.linkedin.com/in/mohamed-yusuf1/recent-activity/articles/)
