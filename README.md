@@ -3,7 +3,7 @@
 **Software Engineer → Cloud / Infrastructure** · Minneapolis, MN
 AWS · Terraform · Kubernetes · Docker · GitHub Actions CI/CD
 
-I am a Software Engineer at World Racing Group. My work runs on AWS, with GitHub Actions for CI/CD. Before this job, I was a software intern at Oasis and the Minnesota Twins. I now prepare for the CKA (Certified Kubernetes Administrator). The exam is in Feb 2027.
+I am a Software Engineer at World Racing Group. My work runs on AWS, with GitHub Actions for CI/CD. Before this job, I was a software intern at Oasis and the Minnesota Twins. Now I prepare for the CKA (Certified Kubernetes Administrator), with my exam in Feb 2027.
 
 ## Core stack
 
@@ -18,9 +18,9 @@ This is the set of tools I work with.
 | Languages | Python · TypeScript · Rust |
 | Systems | Linux |
 
-## Featured work
+## Personal projects
 
-These five projects use the tools above. Each name links to the code.
+These are my personal projects — the work I am most proud of. Each name links to the code.
 
 | Project | What it does | Built with |
 |---|---|---|
