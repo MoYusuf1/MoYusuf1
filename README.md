@@ -1,6 +1,6 @@
 # Mohamed Yusuf
 
-**Software Engineer → Cloud / Infrastructure** · Minneapolis, MN
+**Cloud Software Engineer** · Minneapolis, MN
 AWS · Terraform · Kubernetes · Docker · GitHub Actions CI/CD
 
 I am a Software Engineer at World Racing Group. My work runs on AWS, with GitHub Actions for CI/CD. Before this job, I was a software intern at Oasis and the Minnesota Twins. Now I prepare for the CKA (Certified Kubernetes Administrator), with my exam in Feb 2027.
