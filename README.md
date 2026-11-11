@@ -34,9 +34,9 @@ These are my personal projects — the work I am most proud of. Each name links 
 
 | Certification | Issuer | Status |
 |---|---|---|
-| AWS Certified Solutions Architect – Associate | AWS | Held |
-| AWS Certified Cloud Practitioner | AWS | Held |
-| HashiCorp Certified: Terraform Associate | HashiCorp | Held |
+| AWS Certified Solutions Architect – Associate | AWS | Achieved |
+| AWS Certified Cloud Practitioner | AWS | Achieved |
+| HashiCorp Certified: Terraform Associate | HashiCorp | Achieved |
 | CKA (Certified Kubernetes Administrator) | The Linux Foundation | In progress — exam Feb 2027 |
 
 ## Links
