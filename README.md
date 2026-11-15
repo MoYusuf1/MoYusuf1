@@ -12,7 +12,7 @@ This is the set of tools I work with.
 | Area | Tools |
 |---|---|
 | Cloud | AWS (VPC, PrivateLink, EC2, S3, IAM, Lambda, API Gateway, SQS, CloudFront, Route 53) |
-| Infrastructure as Code | Terraform |
+| Infrastructure as Code | Terraform · Ansible |
 | Containers | Docker · Kubernetes (studying for CKA) |
 | CI/CD | GitHub Actions |
 | Languages | Python · TypeScript · Rust |
@@ -26,6 +26,7 @@ These are my personal projects — the work I am most proud of. Each name links 
 |---|---|---|
 | [aws-privatelink-multi-vpc-terraform](https://github.com/MoYusuf1/aws-privatelink-multi-vpc-terraform) | Three separate VPCs share one internal app over AWS PrivateLink. No peering. No public IPs. CI runs on each change. | Terraform · AWS |
 | [blue-green-release-gate-terraform](https://github.com/MoYusuf1/blue-green-release-gate-terraform) | A release gate. It rejects a release that is healthy but wrong. It rehearses rollback. It runs locally at no cost. | Terraform · Docker · NGINX |
+| [server-bootstrap-ansible](https://github.com/MoYusuf1/server-bootstrap-ansible) | One playbook takes a fresh server and hardens it. Run it again and nothing changes: 17 changes the first time, zero the second. A verify suite and break-and-check drills check that the hardening holds. | Ansible |
 | [riptv](https://github.com/MoYusuf1/riptv) | A private IPTV player. No account. Live TV, movies, and shows in the browser. Downloads for Windows, Linux, and Mac. | Rust |
 | [rstreamkit](https://github.com/MoYusuf1/rstreamkit) | A media engine in pure Rust. HLS and MPEG-TS go in. fMP4 comes out. Rust decodes the Dolby audio, so browsers can play it. | Rust |
 | [LeetGrammar](https://github.com/MoYusuf1/LeetGrammar) | A Somali grammar course for one adult who learns alone. It has 11 lessons. Every form is traced to two published sources. It is local-first. | TypeScript |
